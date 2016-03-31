@@ -1,0 +1,28 @@
+name: TechCollective
+favicon: null
+layout_spectrum: 0.33019521133974195
+typography_spectrum: 0.3160911013837904
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.11809069034643471
+  lightness: 0.20942861307412386
+  saturation: 0.9991345915477723
+  rhythmicContrast: 0.3759938613511622
+purpose: []

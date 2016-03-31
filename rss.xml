@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[TechCollective]]></title>
         <description><![CDATA[TechCollective]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/techcollective/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 18:23:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 31 Mar 2016 18:27:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/techcollective/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Chat bots, conversation and AI as an interface]]></title>
-            <description><![CDATA[<h1>Chat bots, conversation and AI as an interface</h1>]]></description>
-            <link>undefinedchat-bots-conversation-and-ai-as-an-interface/index.html</link>
+            <description><![CDATA[<article><h1>Chat bots, conversation and AI as an interface</h1><p>Chat bots tap into two very current preoccupations. On one hand, the hope that they can actually work is a reflection of the ongoing explosion of AI, and on the other, they offer a way to reach users without having to get them to install an app. </p></article>]]></description>
+            <link>https://thegrid.ai/techcollective/chat-bots-conversation-and-ai-as-an-interface/index.html</link>
             <guid isPermaLink="false">30cbf20d-b9db-4863-8a82-a7822e603941</guid>
-            <pubDate>Thu, 31 Mar 2016 18:23:24 GMT</pubDate>
+            <pubDate>Thu, 31 Mar 2016 18:27:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
